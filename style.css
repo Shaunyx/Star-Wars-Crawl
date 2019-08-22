@@ -2,6 +2,7 @@ body {
   width: 100%;
   height: 100%;
   background: #000;
+  background-image: url("https://raw.githubusercontent.com/Shaunyx/Star-Wars-Crawl/master/img%20source/417161-stars-background-hd.jpg");
   overflow: hidden;
 }
 
