@@ -39,6 +39,7 @@ body {
 
 .crawl > .title {
   font-size: 90%;
+  color: blue;
   text-align: center;
 }
 
